@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Window1.xaml](./CS/CreateBarEditItems/Window1.xaml)
+* [Window1.xaml.cs](./CS/CreateBarEditItems/Window1.xaml.cs)
+* [Window2.xaml](./CS/CreateBarEditItems/Window2.xaml)
+* [Window2.xaml.cs](./CS/CreateBarEditItems/Window2.xaml.cs)
+<!-- default file list end -->
 # How to: embed editors into a bar using BarEditItem
 
 
